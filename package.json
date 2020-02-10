@@ -1,0 +1,22 @@
+{
+  "name": "soufiane_portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio dónde muestro los proyectos que voy desarrollando",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/soufianeaatab/soufianeaatab.github.io.git"
+  },
+  "author": "Soufiane Aatab",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/soufianeaatab/soufianeaatab.github.io/issues"
+  },
+  "homepage": "https://github.com/soufianeaatab/soufianeaatab.github.io#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
