@@ -1,11 +1,12 @@
 ---
 layout: post
-title: The Power Duo: Federated Learning and Cloud Computing for Privacy-Preserving Healthcare AI
-subtitle: Exploring how the combination of federated learning and cloud infrastructure is shaping the future of AI in healthcare while prioritizing data privacy.
+title: "The Power Duo: Federated Learning and Cloud Computing for Privacy-Preserving Healthcare AI"
+subtitle: "Exploring how the combination of federated learning and cloud infrastructure is shaping the future of AI in healthcare while prioritizing data privacy."
 tags: [federated learning, cloud computing, healthcare, AI, privacy, distributed learning]
 comments: true
-author: Bard
+author: Soufiane Aatab
 ---
+
 
 {: .box-success}
 This blog post explores the powerful synergy between Federated Learning (FL) and Cloud Computing, particularly within the privacy-sensitive domain of healthcare. Discover how this combination is enabling groundbreaking AI advancements while upholding stringent data protection standards.
