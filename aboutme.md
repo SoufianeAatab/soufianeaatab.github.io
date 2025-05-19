@@ -4,14 +4,12 @@ title: About me
 subtitle: A brief personal description
 ---
 
-My name is Ferran Aran, I am from Lleida and I love learning new skills. Have a look at my background below!
+Hi! I'm Soufiane, a software engineer from Barcelona with a strong passion for learning, building, and solving meaningful problems. I'm especially drawn to the intersection of technology and healthcare, and I’m currently expanding my expertise in that space.
 
 ### Education
 
-- Computer science degree at UdL (2019 - 2022)
-- Master in computer science at UdL (2022 - 2024)
-- PhD in RL applied to energy (2024 - present)
+- Computer science degree at UPC (2018 - 2022)
+- Master in Health Data Science at URV (2024 - 2026)
 
 ### Experience
-- Research assistant on MILP at UdL (2022 - 2023)
-- R&D as Data Scientist at GFT Technologies (2023 - present)
+- Software Engineer at ADP (2023 - Present)
