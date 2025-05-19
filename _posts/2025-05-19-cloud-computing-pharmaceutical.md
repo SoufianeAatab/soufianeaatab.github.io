@@ -4,9 +4,8 @@ title: "The Power Duo: Federated Learning and Cloud Computing for Privacy-Preser
 subtitle: "Exploring how the combination of federated learning and cloud infrastructure is shaping the future of AI in healthcare while prioritizing data privacy."
 tags: [federated learning, cloud computing, healthcare, AI, privacy, distributed learning]
 comments: true
-author: Soufiane Aatab
+author: Bard
 ---
-
 
 {: .box-success}
 This blog post explores the powerful synergy between Federated Learning (FL) and Cloud Computing, particularly within the privacy-sensitive domain of healthcare. Discover how this combination is enabling groundbreaking AI advancements while upholding stringent data protection standards.
@@ -24,6 +23,8 @@ This is where Cloud Computing steps in as a crucial enabler. Cloud platforms pro
 * **Managed Services:** Cloud platforms often provide managed services that simplify the deployment and management of FL workflows, making it easier for healthcare organizations to participate.
 * **Secure Communication:** Cloud infrastructure provides secure channels for the exchange of model updates between the local clients and the central server.
 
+As highlighted in recent research on privacy preservation for federated learning in healthcare [1], the combination of these technologies is critical for advancing AI responsibly in this sensitive domain.
+
 ## Why This Synergy Matters for Healthcare
 
 The combination of FL and cloud computing offers a compelling solution for advancing AI in healthcare responsibly:
@@ -40,3 +41,7 @@ While the synergy is powerful, challenges remain. Ensuring the security of the a
 ## Conclusion: A Privacy-Centric Future for Healthcare AI
 
 The convergence of Federated Learning and Cloud Computing is paving the way for a privacy-centric future of AI in healthcare. By enabling collaborative learning on distributed data within a scalable and secure cloud environment, this powerful duo promises to unlock new possibilities for diagnosis, treatment, and patient care, all while safeguarding the confidentiality of sensitive health information.
+
+## References
+
+[1] Privacy preservation for federated learning in health care. *Expert Systems with Applications*, *246*, 123303. https://doi.org/10.1016/j.eswa.2024.123303
