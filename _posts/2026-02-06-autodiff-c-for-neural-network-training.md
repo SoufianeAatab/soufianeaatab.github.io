@@ -5,6 +5,7 @@ date: 2026-02-06
 categories: [machine-learning, embedded-systems, c]
 tags: [autodiff, neural-networks, iot, code-generation]
 ---
+## Autodiff: Generating C Code for Neural Network Training
 
 ## Introduction
 
